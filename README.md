@@ -8,11 +8,11 @@
 
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorAfonso8001&theme=midnight-purple&cache_seconds=1400&locale=en" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IgorAfonso8001&theme=shadow_red&cache_seconds=1400" />
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAfonso8001&theme=midnight-purple&layout=compact" width="325px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor-8001&theme=shadow_red&cache_seconds=1400" width="325px" />
 </div>
 
 
@@ -20,7 +20,7 @@
 
 
 <div>
-  <a href="https://github.com/Igor-8001/OneDrive"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anseryg&repo=fgengenharia-solar&theme=midnight-purple&cache_seconds=1400" /></a>
+  <a href="https://github.com/igor-8001/OneDrive"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Igor-8001&repo=OneDrive&theme=shadow_red&cache_seconds=1400" /></a>
 </div>
 
 <div style="display: block"></br>
